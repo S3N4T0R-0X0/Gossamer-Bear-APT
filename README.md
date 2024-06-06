@@ -65,7 +65,6 @@ Now when i click the prominent button in the PDF file it launches the html smugg
 
 In the actual attack, the attackers did not use an actual c2 server or payload and limited themselves to spear phishing, but here I wanted to exploit the presence of a larger HTML file to download the payload and open malicious url.
 
-
 First i need to create a google Drive account, as shown in the following figure
 
 1. Log into the Google Cloud Platform
