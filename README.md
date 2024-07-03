@@ -37,7 +37,7 @@ After that i will place the HTML file in the apache server, take the localhost  
 ![Screenshot from 2024-05-29 18-54-38](https://github.com/S3N4T0R-0X0/Gossamer-Bear-APT/assets/121706460/6cbb6df5-7444-4546-9eb8-282570d9ec3c)
 
 
-## The Second stage (implanting technique)
+## The second stage (implanting technique)
 
 Now i will place the phishing link inside the HTML file in addition to the payload through base64 inside the HTML file, In this simulation i used the PyPhisher tool.
 
